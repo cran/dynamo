@@ -13,7 +13,7 @@ univariate dynamic models including: ARMA, ARMA-GARCH, ACD, MEM, Spline-MEM.
 \tabular{ll}{
 Package: \tab dynamo\cr
 Type: \tab Package\cr
-Version: \tab 0.1.2\cr
+Version: \tab 0.1.3\cr
 Date: \tab 2007-12-20\cr
 License: \tab GPL 2\cr
 }
